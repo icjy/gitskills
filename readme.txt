@@ -1,2 +1,4 @@
 Creating a new branch is quick.
-Switch fearture1 to master.
+
+New branch feature1.Then Switch fearture1 to master.
+
