@@ -1,4 +1,5 @@
 Creating a new branch is quick.
 
-New branch feature1.Then Switch fearture1 to master.
+Delete the dev sentence.
 
+Now I add the other branch dev2 and have a test.
